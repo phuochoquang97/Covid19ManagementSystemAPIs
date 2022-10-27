@@ -1,0 +1,140 @@
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\appsettings.Development.json
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\appsettings.json
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Covid Project.exe
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Covid Project.deps.json
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Covid Project.runtimeconfig.json
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Covid Project.runtimeconfig.dev.json
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Covid Project.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\ref\Covid Project.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Covid Project.pdb
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\AutoMapper.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Humanizer.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\MailKit.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\MimeKit.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.csprojAssemblyReference.cache
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.AssemblyInfoInputs.cache
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.AssemblyInfo.cs
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.csproj.CoreCompileInputs.cache
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.MvcApplicationPartsAssemblyInfo.cs
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.MvcApplicationPartsAssemblyInfo.cache
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\staticwebassets\Covid Project.StaticWebAssets.Manifest.cache
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\staticwebassets\Covid Project.StaticWebAssets.xml
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\scopedcss\bundle\Covid Project.styles.css
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.RazorTargetAssemblyInfo.cache
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.csproj.CopyComplete
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\ref\Covid Project.dll
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.pdb
+E:\Tài liệu các môn học\DA CNPM\Covid Project\obj\Debug\net5.0\Covid Project.genruntimeconfig.cache
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\appsettings.Development.json
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\appsettings.json
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Covid Project.exe
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Covid Project.deps.json
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Covid Project.runtimeconfig.json
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Covid Project.runtimeconfig.dev.json
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Covid Project.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\ref\Covid Project.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Covid Project.pdb
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\AutoMapper.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Humanizer.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\MailKit.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\MimeKit.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DA\BE_API\be-web-api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.csprojAssemblyReference.cache
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.AssemblyInfoInputs.cache
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.AssemblyInfo.cs
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.csproj.CoreCompileInputs.cache
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.MvcApplicationPartsAssemblyInfo.cs
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.MvcApplicationPartsAssemblyInfo.cache
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\staticwebassets\Covid Project.StaticWebAssets.Manifest.cache
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\staticwebassets\Covid Project.StaticWebAssets.xml
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\scopedcss\bundle\Covid Project.styles.css
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.RazorTargetAssemblyInfo.cache
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.csproj.CopyComplete
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.dll
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\ref\Covid Project.dll
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.pdb
+D:\DA\BE_API\be-web-api\obj\Debug\net5.0\Covid Project.genruntimeconfig.cache
